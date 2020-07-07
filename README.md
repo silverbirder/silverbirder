@@ -27,13 +27,13 @@ Contribute the micro frontends architecture.
 * Clean architecture to enterprise frontends application
 
 ### 💬 Ask me about ...
-Scalable and loosely coupled web application architecture
+Scalable and loosely coupled web application architecture.
 
 ### 📫 How to reach me: ...
-Twitter or [PullRequests](https://github.com/Silver-birder/Silver-birder/pulls)
+Twitter or [PullRequests](https://github.com/Silver-birder/Silver-birder/pulls).
 
 ### 😄 Pronouns: ...
-Emoji lovers
+Emoji lovers.
 
 ### ⚡ Fun fact: ...
 I'm a human.

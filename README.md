@@ -1,4 +1,4 @@
-[![Twitter](https://img.shields.io/twitter/follow/silver_birder?style=social)](https://twitter.com/Silver-birder)
+[![Twitter](https://img.shields.io/twitter/follow/silver_birder?style=social)](https://twitter.com/Silver_birder)
 [![Portfolio](https://img.shields.io/badge/portfolio-silverbirder-brightgreen)](https://silver-birder.github.io/)
 
 Hi there 👋

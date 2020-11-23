@@ -17,7 +17,7 @@ The technology stack is
 
 ### 🌱 I’m currently learning ...
 * Micro frontends
-* Streaming datapipeline (Apache Beam + Kotlin + Dataflow)
+* Data processing workflows
 
 ### 👯 I’m looking to collaborate on ...
 Contribute the micro frontends architecture.

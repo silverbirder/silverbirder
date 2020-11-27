@@ -5,7 +5,8 @@ Hi there 👋
 
 ### 🔭 I’m currently working on ...
 👨‍💻 Develop web application for e-commerce. 
-The technology stack is 
+
+My technology stack is 
 * Python
 * Typescript
 * Docker

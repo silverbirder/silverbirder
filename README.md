@@ -4,7 +4,7 @@
 Hi there 👋
 
 ### 🔭 I’m currently working on ...
-👨‍💻 Develop web application for e-commerce. 
+👨‍💻 Develop web application.
 
 My technology stack is 
 * Python

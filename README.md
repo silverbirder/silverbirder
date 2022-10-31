@@ -2,8 +2,8 @@
 [![Portfolio](https://img.shields.io/badge/portfolio-silverbirder-brightgreen)](https://silver-birder.github.io/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SIlver-birder.Silver-birder)
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Silver-birder&count_private=true&show_icons=true)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Silver-birder&layout=compact)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=silverbirder&count_private=true&show_icons=true)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=silverbirder&layout=compact)
 
 Hi there 👋
 

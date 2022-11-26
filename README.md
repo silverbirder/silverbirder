@@ -1,5 +1,5 @@
-[![Twitter](https://img.shields.io/twitter/follow/silver_birder?style=social)](https://twitter.com/Silver_birder)
-[![Portfolio](https://img.shields.io/badge/portfolio-silverbirder-brightgreen)](https://silver-birder.github.io/)
+[![Twitter](https://img.shields.io/twitter/follow/silverbirder?style=social)](https://twitter.com/silverbirder)
+[![Portfolio](https://img.shields.io/badge/portfolio-silverbirder-brightgreen)](https://silverbirder.github.io/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SIlver-birder.Silver-birder)
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=silverbirder&count_private=true&show_icons=true)
@@ -35,7 +35,7 @@ Contribute the micro frontends architecture.
 Scalable and loosely coupled web application architecture.
 
 ### 📫 How to reach me: ...
-Twitter or [PullRequests](https://github.com/Silver-birder/Silver-birder/pulls).
+Twitter or [PullRequests](https://github.com/silverbirder/silverbirder/pulls).
 
 ### 😄 Pronouns: ...
 Emoji lovers.

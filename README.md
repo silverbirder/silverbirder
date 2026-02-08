@@ -1,44 +1,40 @@
-[![Twitter](https://img.shields.io/twitter/follow/silverbirder?style=social)](https://twitter.com/silverbirder)
-[![Portfolio](https://img.shields.io/badge/portfolio-silverbirder-brightgreen)](https://silverbirder.github.io/)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SIlver-birder.Silver-birder)
+# silverbirder
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=silverbirder)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=silverbirder&layout=compact)
+[![X](https://img.shields.io/badge/x-%40silverbirder-000000)](https://x.com/silverbirder)
+[![Bluesky](https://img.shields.io/badge/bluesky-%40silverbirder.bsky.social-0285FF)](https://bsky.app/profile/silverbirder.bsky.social)
+[![Threads](https://img.shields.io/badge/threads-%40silverbirder-000000)](https://www.threads.com/@silverbirder)
+[![Blog](https://img.shields.io/badge/blog-personal-0A7EC5)](https://silverbirder.github.io/blog/)
 
 Hi there 👋
 
-### 🔭 I’m currently working on ...
-👨‍💻 Develop web application.
+### About
+- I’m a software engineer focused on web frontend development and testing.
+- I love building exciting web experiences.
+- I enjoy calm landscapes, ambient sounds, and sharing good food.
+- My favorite photos are on [my cork board](https://silverbirder-cork-board.vercel.app)
 
-My technology stack is 
-* Python
-* Typescript
-* Docker
-* Terraform
-* Ansible
-* Kubernetes
-* GCP
-* AWS
+### Favorite Tech
+- React
+- Jest
+- Playwright
+- Testcontainers
+- Storybook
+- Figma
 
-### 🌱 I’m currently learning ...
-* Micro frontends
-* Data processing workflows
+### Work Experience
+- System Integration: Built, maintained, and operated web apps from design to release.
+- E‑Commerce: Architecture design and modernization for large‑scale apps.
+- Fintech: Product improvements and new feature development.
+- Restaurant (SaaS): Cross‑platform frontend development.
+- Media: New development and improvements for media websites.
 
-### 👯 I’m looking to collaborate on ...
-Contribute the micro frontends architecture.
+### Artifacts
+- [Introduction to Web Components for Beginners](https://www.amazon.co.jp/gp/product/B08CY2QCFV/)
+- Web services I built: https://sites.google.com/view/silverbirders-services
 
-### 🤔 I’m looking for help with ...
-* Modular monolith architecture
-* Clean architecture to enterprise frontends application
-
-### 💬 Ask me about ...
-Scalable and loosely coupled web application architecture.
-
-### 📫 How to reach me: ...
-Twitter or [PullRequests](https://github.com/silverbirder/silverbirder/pulls).
-
-### 😄 Pronouns: ...
-Emoji lovers.
-
-### ⚡ Fun fact: ...
-I'm a human.
+### Contact
+- [X](https://x.com/silverbirder)
+- [Bluesky](https://bsky.app/profile/silverbirder.bsky.social)
+- [Threads](https://www.threads.com/@silverbirder)
+- [GitHub](https://github.com/silverbirder)
+- [RSS](https://silverbirder.github.io/rss.xml)
